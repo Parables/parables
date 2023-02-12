@@ -1,6 +1,6 @@
 ### Hi there 👋, I am
 
-![Header](./parables-github-header.png)
+![Header](./my-github-header-image.png)
 
 ### If it must be done, it must be done right
 
