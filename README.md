@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am
+
 ![Header](./parables-github-header.png)
 
+### If it must be done, it must be done right
 
 <!--
 **Parables/parables** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
