@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./my-octocat.png)
+![Header](./github-header-image.png)
 
 
 <!--
