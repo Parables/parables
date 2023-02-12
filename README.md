@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./github-header.png)
+![Header](./parables-github-header.png)
 
 
 <!--
